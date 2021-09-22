@@ -1,0 +1,47 @@
+﻿{
+  "TextElement": {
+    "Document": {
+      "ElementClass": "Document",
+      "ElementTypeText": "PLACESLIP",
+      "ElementDescription": "Placement Slip",
+      "Office": "40",
+      "Segment": "AF",
+      "Business": "Abrasive Products (03291)",
+      "Class": "AMU",
+      "Underwriter": "AGC (Insurances) (AGC)",
+      "VerifyText": "Place",
+      "Status": "Current"
+    },
+    "Component": {
+      "ElementClass": "Component",
+      "ElementTypeText": "",
+      "ElementDescription": "Auto",
+      "VerifyText": "Auto",
+      "CloneTextElementDescription": "Auto1",
+      "Status": "Current"
+    },
+    "Profile": {
+      "ElementClass": "Profile",
+      "ElementTypeText": "",
+      "VerifyText": "Summary ",
+      "ElementDescription": "AARN ISR",
+      "Status": "Current"
+    }
+
+
+
+  },
+
+  "AuthorisePayments": {
+    "Office": "All",
+    "Currency": "AUD",
+    "LedgerType": "Agent",
+    "FromTransDate": "6/2/2021",
+    "UserPassword": "plumpeach@2021"
+
+  },
+
+
+
+
+}

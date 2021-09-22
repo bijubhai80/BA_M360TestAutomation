@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/Selenium.WebDriver.3.141.0/lib/netstandard2.0
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312148
+WebDriver.dll;2891995475;1;1622186476;|384427|1109110
+WebDriver.xml;1210707387;1;1622186487;|384428|1109111

@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/NLog.4.7.8/lib/net45
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312178
+NLog.dll;1989948503;1;1622185858;|384344|1109026
+NLog.xml;1374317426;1;1622185892;|384345|1109027

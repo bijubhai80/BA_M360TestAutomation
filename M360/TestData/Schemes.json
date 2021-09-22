@@ -1,0 +1,27 @@
+{
+  "WithProfile": {
+    "Office": "020",
+    "Scheme": "Bike Dealers Arrangement (LVS)",
+    "RiskPremium": "10000",
+    "Date":  "01/05/2021"
+  },
+
+  "WithoutProfile": {
+    "Office": "020",
+    "Scheme": "Dirt Bike Insurance",
+    "Year": "2022",
+    "Make": "Yamaha",
+    "Model": "Fast Bike",
+    "Variant": "Green",
+    "VIN": "123456",
+    "RegNo": "X123RT",
+    "MarketValue": "10000",
+    "Accessories": "2000",
+    "ListOfAccessories": "Fancy Things",
+    "FinanceCo": "MACCRE",
+    "Source": "Australasian Dirt Bike Magazine",
+    "Address": "12 Haven Crescent",
+    "State": "NSW",
+    "PostCode": "2762"
+  }
+}

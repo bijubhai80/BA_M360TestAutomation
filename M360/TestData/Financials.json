@@ -1,0 +1,108 @@
+{
+  "Standard": {
+    "Office": "060",
+    "BankAccount": "Marsh Pty Ltd - AUD A/C (CBA, AUD, 062000, 11070078)",
+    "CreditorType": "Underwriter",
+    "LedgerType": "Client",
+    "LedgerAccount": "HOBBSM",
+    "Amount": "100",
+    "Bank": "AMP",
+    "BSB": "123",
+    "LedgerType_R2": "Client",
+    "LedgerAccount_R2": "HOBBSM",
+    "Amount_R2": "100",
+    "Bank_R2": "AMP",
+    "BSB_R2": "123",
+    "Description": "",
+    "Currency": "AUD",
+    "PaymentType": "Transfer via Bank",
+    "PaymentNos": "",
+    "Status": "",
+    "FromTransDate": "3/5/2021",
+    "MasterUser": "Hitha Mohanan (MOHAH)",
+    "MasterPassword": "godrejgodrej@21",
+    "UserPassword": "Passw0rd",
+    "RepeatPassword": "Passw0rd"
+  },
+
+  "AuthorisePayments": {
+    "Office": "All",
+    "Currency": "AUD",
+    "LedgerType": "Underwriter",
+    "FromTransDate": "6/2/2021",
+    "UserPassword": "Passw0rd"
+
+  },
+
+  "GeneralLedgerInquiry": {
+    "Office": "060"
+
+
+  },
+
+  "PaymentInstruction": {
+    "LedgerType": "Agent",
+    "Description": "Run",
+    "Currency": "Australian Dollars (AUD)",
+    "PaymentType": "Transfer via Bank",
+    "UserPassword": "Passw0rd",
+    "Add": {
+      "LedgerType": "Agent",
+      "Description": "Run Test Agent",
+      "Currency": "Australian Dollars (AUD)",
+      "PaymentType": "Transfer via Bank",
+      "PayeeACName": "Little Real Estate VIC & NSW Pty Ltd Test",
+      "BankName": "CBA",
+      "BankAddress": "Melbourne",
+      "BankBSB": "063-000",
+      "BankACNumber": "11651559",
+      "PayeeAddress_1": "Unit 5 , 107 High Street",
+      "PayeeAddress_2": "Parabola",
+      "PayeeAddress_3": "",
+      "PayeeAddress_4": "",
+      "PayeeState": "VIC",
+      "Postcode": "3181",
+      "PayeeCountry": "Australia",
+      "EmailAddress": "sheetal.rane@jlta.com.au",
+      "Active": "Checked"
+
+    }
+  },
+
+  "PayCreditors": {
+    "AuthoriseUser": {
+      "UserCreated_Y": {
+        "MasterUser": "Hitha Mohanan (MOHAH)",
+        "MasterPassword": "godrejgodrej@21",
+        "UserPassword": "Passw0rd",
+        "RepeatPassword": "Passw0rd"
+      }
+    }
+  },
+
+  "AutomaticClientAllocation": {
+    "Code": "800",
+    "ClientCode": "ATHIPA",
+    "Comments": "Description Comment",
+    "Amount": "4545.45"
+  },
+  "InsuranceLedger": {
+    "Invoice": {
+      "Ledger": "Client",
+      "Type": "Invoice/Credit Note",
+      "Business": "Repeat Business",
+      "Comments": "Test Invoice",
+      "LedgerAccount": "ABACUS",
+      "Amount": "1000"
+    },
+    "CreditNote": {
+      "Ledger": "Client",
+      "Type": "Invoice/Credit Note",
+      "Business": "Repeat Business",
+      "Comments": "Test CreditNote",
+      "LedgerAccount": "ABACUS",
+      "Amount": "-1000"
+    }
+
+  }
+}

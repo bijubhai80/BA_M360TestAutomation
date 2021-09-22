@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/ExcelDataReader.3.6.0/lib/netstandard1.3
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312216
+ExcelDataReader.dll;229775477;1;1622185383;|384285|1108967
+ExcelDataReader.xml;1090422882;1;1622185385;|384286|1108968

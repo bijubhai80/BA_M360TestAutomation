@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/Newtonsoft.Json.12.0.3/lib/portable-net40+sl5+win8+wp8+wpa81
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312185
+Newtonsoft.Json.dll;330832160;1;1622185577;|384405|1109088
+Newtonsoft.Json.xml;478240810;1;1622185584;|384406|1109089

@@ -1,0 +1,28 @@
+{
+  "EDIStandard": {
+    "EDIProduct": "QBEMM Home Pack (HPKUAT)",
+    "AccountNumber": "AWJLTDOM1 - PERTH DOMESTIC",
+    "Address": "15 Laurel Street",
+    "TypeOfCover": "Insured Events",
+    "DateOfBirth": "06/08/1981",
+    "Building": "200000",
+    "TotalContents": "100000",
+    "TotalValuables": "0",
+    "Excess": "500",
+    "OccupiedBy": "Owner Occupier",
+    "Contruction": "Brick Veneer",
+    "BuildingType": "Home",
+    "YearBuilt": "2000",
+    "Size": "400",
+    "PreviousInsurer": "AAMI",
+    "Last5Years": "No",
+    "GroundSwimmingPool": "No",
+    "BelowGroundLevel": "No",
+    "TwoStoreys": "No",
+    "Stilts": "No",
+    "PrivateMeasures": "No",
+    "RefusedInsurance": "No",
+    "Conviction": "No",
+    "Loss": "No"    
+  }
+}

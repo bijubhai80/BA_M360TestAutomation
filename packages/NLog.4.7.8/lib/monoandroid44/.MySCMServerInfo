@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/NLog.4.7.8/lib/monoandroid44
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312181
+NLog.dll;19009994;1;1622185668;|384338|1109020
+NLog.xml;1522766940;1;1622185700;|384339|1109021

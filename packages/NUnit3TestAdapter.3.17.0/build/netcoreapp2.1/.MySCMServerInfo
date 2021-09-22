@@ -1,0 +1,9 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/NUnit3TestAdapter.3.17.0/build/netcoreapp2.1
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312160
+nunit.engine.api.dll;1795527924;1;1622186277;|384384|1109067
+nunit.engine.core.dll;2964911312;1;1622186278;|384385|1109068
+nunit.engine.dll;3850058238;1;1622186279;|384386|1109069
+NUnit3.TestAdapter.dll;123903838;1;1622186286;|384383|1109065
+NUnit3TestAdapter.props;2427461637;1;1622186287;|385077|1109066

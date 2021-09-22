@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WinAppDriverWindowsObjectHandler</name>
+    </assembly>
+    <members>
+        <member name="T:WinAppDriverWindowsObjectHandler.WindowsObjectHandler">
+            <summary>
+            Methods to handle Windows objects using WinAppDriver
+            </summary>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.getWindowHandle(System.String,System.String)">
+            <summary>
+            Extracts the Window handle using Process name and window title
+            </summary>
+            <param name="processName">Process name of the application</param>
+            <param name="appWindowTitle">Application Window Title</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.launchWinAppDriver(System.String,System.String)">
+            <summary>
+            Launches WinAppDriver
+            </summary>
+            <param name="processName">WinAppDriver process name</param>
+            <param name="winappdriverPath">WinAppDriver folder path where WinAppDriver.exe file exist</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.startWinAppDriver(System.String,System.String)">
+            <summary>
+            Starts WinAppDriver
+            </summary>
+            <param name="processName">Process name of the application</param>
+            <param name="winappdriverPath">WinAppDriver folder path where WinAppDriver.exe file exist</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.waitForProcessAvailability(System.String,System.String)">
+            <summary>
+            Waits until the Application Process is available and Responding
+            </summary>
+            <param name="processName">Process name of the application</param>
+            <param name="appWindowTitle">Application Window Title</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.initializeWinAppDriver(System.String,System.String)">
+            <summary>
+            Initializes WinAppDriver using Appium Webdriver and launches the application
+            </summary>
+            <param name="winappdriverPort">WinAppDriver listening port</param>
+            <param name="appExeFilePath">Application Exe full file path</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.initializeWinAppDriverOnRunningApp(System.String,System.String)">
+            <summary>
+            Initializes WinAppDriver using Appium Webdriver on already opened application
+            </summary>
+            <param name="winHandler">Process name of the application</param>
+            <param name="winappdriverPort">WinAppDriver listening port</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.maximizeWindow(OpenQA.Selenium.Appium.Windows.WindowsDriver{OpenQA.Selenium.Appium.Windows.WindowsElement})">
+            <summary>
+            Maximizes the Windows Application
+            </summary>
+            <param name="windriver">Process name of the application</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.windowsElementOperationsById(OpenQA.Selenium.Appium.Windows.WindowsDriver{OpenQA.Selenium.Appium.Windows.WindowsElement},System.String,System.String,System.String,System.String)">
+            <summary>
+            Windows Objects Element Operations by ID (Automation ID)
+            </summary>
+            <param name="windriver">WinAppDriver object</param>
+            <param name="operation">Element Operations like Click or SendKeys or Verify</param>
+            <param name="locatorValue">Object locator value like ID, Name, Xpath etc..</param>
+            <param name="objValue">Text that needs to be passed as an input to SendKeys</param>
+            <param name="objName">Name of the Object</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.windowsElementOperationsByName(OpenQA.Selenium.Appium.Windows.WindowsDriver{OpenQA.Selenium.Appium.Windows.WindowsElement},System.String,System.String,System.String,System.String)">
+            <summary>
+            Windows Objects Element Operations by Name
+            </summary>
+            <param name="windriver">WinAppDriver object</param>
+            <param name="operation">Element Operations like Click or SendKeys or Verify</param>
+            <param name="locatorValue">Object locator value like ID, Name, Xpath etc..</param>
+            <param name="objValue">Text that needs to be passed as an input to SendKeys</param>
+            <param name="objName">Name of the Object</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.windowsElementOperationsByXpath(OpenQA.Selenium.Appium.Windows.WindowsDriver{OpenQA.Selenium.Appium.Windows.WindowsElement},System.String,System.String,System.String,System.String)">
+            <summary>
+            Windows Objects Element Operations by Xpath
+            </summary>
+            <param name="windriver">WinAppDriver object</param>
+            <param name="operation">Element Operations like Click or SendKeys or Verify</param>
+            <param name="locatorValue">Object locator value like ID, Name, Xpath etc..</param>
+            <param name="objValue">Text that needs to be passed as an input to SendKeys</param>
+            <param name="objName">Name of the Object</param>
+        </member>
+        <member name="M:WinAppDriverWindowsObjectHandler.WindowsObjectHandler.windowsWaitForElement(OpenQA.Selenium.Appium.Windows.WindowsDriver{OpenQA.Selenium.Appium.Windows.WindowsElement},System.String,System.String,System.Int32)">
+            <summary>
+            Waits until the Windows Element is available
+            </summary>
+            <param name="windriver">WinAppDriver object</param>
+            <param name="locatorType">Element Locators like ID, Name, Xpath etc</param>
+            <param name="locatorValue">Object locator value like ID, Name, Xpath etc..</param>
+            <param name="waitTime">Time until which WinAppDriver needs to wait for an element to be available</param>
+        </member>
+    </members>
+</doc>

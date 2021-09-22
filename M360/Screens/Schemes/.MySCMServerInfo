@@ -1,0 +1,7 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/M360/Screens/Schemes
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312248
+BikeDealersArrangement.cs;66251136;1;1622185254;|385344|1118958
+DirtBikeInsurance.cs;692049585;1;1622185254;|385342|1118951
+SchemesScreen.cs;2121870110;1;1622185254;|385343|1118952

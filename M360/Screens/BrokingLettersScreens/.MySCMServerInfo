@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/M360/Screens/BrokingLetters
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65331070
+BrokingLetterPolicySelectionScreen.cs;4137465057;2;1626829057;|388474|1127590
+BrokingLettersScreen.cs;2532700547;2;1626829052;|388475|1127591

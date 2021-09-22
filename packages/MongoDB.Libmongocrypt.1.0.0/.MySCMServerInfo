@@ -1,0 +1,7 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/MongoDB.Libmongocrypt.1.0.0
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65397833
+.signature.p7s;1785572745;1;1573641878;|390001|1133611
+License.txt;4117420970;1;1566834132;|390002|1133612
+MongoDB.Libmongocrypt.1.0.0.nupkg;3545146223;1;1622187681;|390003|1133613

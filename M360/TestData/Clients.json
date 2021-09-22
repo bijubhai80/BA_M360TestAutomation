@@ -1,0 +1,326 @@
+{
+  //Use for client with updated details.
+  "New": {
+    "Code": "060",
+    "Name": "Test Client",
+    "Dept": "7 Hills - Schemes (099)",
+    "Segment": "Financial Lines Risk Management (PX)",
+    "SIC": "AABTH Members (6655)",
+    "ProfileType": "Client Profile - Marsh",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "Baked1",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "Comments": "Test Invoice",
+    "Amount": "1000",
+    "ID": ""
+  },
+
+  "New2": {
+    "Code": "154",
+    "Name": "Test Client 5",
+    "Dept": "Archived Clients (090)",
+    "Segment": "Echelon Private Sector (RE)",
+    "SIC": "AABTH Members (6655)",
+    "ProfileType": "Client Profile - Marsh",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "TEST5",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "ID": ""
+  },
+
+  "New4": {
+    "Code": "060",
+    "Name": "Test Client",
+    "Dept": "7 Hills - Schemes (099)",
+    "Segment": "Financial Lines Risk Management (PX)",
+    "SIC": "AABTH Members (6655)",
+    "ProfileType": "Client Profile - Marsh",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "ABACUSP",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "Comments": "Test Invoice",
+    "Amount": "1000",
+    "ID": ""
+  },
+
+  "Edit": {
+    "Code": "060",
+    "Name": "Test Client 02",
+    "Dept": "Gaughan D (069)",
+    "Segment": "CCA - Commercial Employees (NA)",
+    "SIC": "Abrasive Products (3291)",
+    "ProfileType": "Client Profile - Marsh",
+    "Broker": "Abate, David (ABATD)",
+    "ClientCode": "BAKED",
+    "BPAY": "",
+    "Group": "40K Globe (40K)",
+    "Company": "",
+    "ID": "",
+    "Details1": {
+      "Broker1": "Abate, David (ABATD)",
+      "Broker2": "Townsend, Martin (TOWNM)",
+      "Address1": "24 Cleveland Street",
+      "Address2": "Line 2",
+      "Address3": "Line 3",
+      "Address4": "Line 4",
+      "State": "NSW",
+      "PostCode": "6007",
+      "Contact": "Brian",
+      "Position": "Head dude",
+      "Phone": "(08) 9432 8765",
+      "Mobile": "0405 123 456",
+      "Fax": "(08) 9432 7654",
+      "Email": "brian@test.com",
+      "Salutation": "Dear Brian,",
+      "Web": "http://www.google.com"
+    }
+  },
+
+  "EditDetails1": {
+    "Code": "060",
+    "Name": "Test Client 02",
+    "Dept": "074",
+    "Segment": "AC",
+    "SIC": "3291",
+    "ProfileType": "Client Profile - Marsh",
+    "ClientCode": "TEST85",
+    "BPAY": "",
+    "Group": "40K",
+    "Company": "",
+    "ID": "",
+    "Details1A": {
+      "Broker1": "Abate, David (ABATD)",
+      "Broker2": "Townsend, Martin (TOWNM)",
+      "Address1": "24 Cleveland Street",
+      "Address2": "Line 2",
+      "Address3": "Line 3",
+      "Address4": "Line 4",
+      "State": "NSW",
+      "PostCode": "6007",
+      "Contact": "Brian",
+      "Position": "Head dude",
+      "Phone": "(08) 9432 8765",
+      "Mobile": "0405 123 456",
+      "Fax": "(08) 9432 7654",
+      "Email": "brian@test.com",
+      "Salutation": "Dear Brian,",
+      "Web": "http://www.google.com"
+    },
+    "Details1B": {
+      "Broker1": "Abate, David (ABATD)",
+      "Broker2": "Townsend, Martin (TOWNM)",
+      "Address1": "24 Test Street",
+      "Address2": "Test Line 2",
+      "Address3": "Test Line 3",
+      "Address4": "Test Line 4",
+      "State": "NSW",
+      "PostCode": "6007",
+      "Contact": "Fred",
+      "Position": "Big Head dude",
+      "Phone": "(08) 9432 8765",
+      "Mobile": "0405 123 456",
+      "Fax": "(08) 9432 7654",
+      "Email": "fred@test.com",
+      "Salutation": "Dear Fred,",
+      "Web": "http://www.google.com"
+    }
+  },
+
+
+  "Edit2": {
+    "Code": "154",
+    "Name": "Test Client 5",
+    "Dept": "Archived Clients (090)",
+    "Segment": "Echelon Private Sector (RE)",
+    "SIC": "AABTH Members (6655)",
+    "ProfileType": "Client Profile - Marsh",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "TEST5",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "ID": "",
+    "Details2": {
+      "AgreementType": "FSG",
+      "Dispatched": "01/01/2020",
+      "AgreementSigned": "01/01/2020",
+      "AgreementExpiry": "01/01/2021",
+      "LolAmount": "Standard FSG",
+      "Comments": "Test Comments",
+      "NswSdExempt_bool": "true",
+      "SanctionsScreening_bool": "true"
+    }
+  },
+
+  "New3": {
+    "Code": "60",
+    "Name": "Test Client 6",
+    "Dept": "7 Hills - Schemes (099)",
+    "Segment": "Financial Lines Risk Management (PX)",
+    "SIC": "AABTH Members (6655)",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "TEST6"
+  },
+
+  "Edit3": {
+    "Code": "60",
+    "Name": "Test Client 6 edited",
+    "Dept": "7 Hills Buying Group (070)",
+    "Segment": "CCA - Affinity Buying Groups (AB)",
+    "SIC": "AABTH Members (6655)",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "TEST6",
+    "Company": "69696969"
+  },
+
+  "Search": {
+    "Code": "062",
+    "Name": "City of Albany",
+    "Dept": "005",
+    "Segment": "BR",
+    "SIC": "9199",
+    "Broker": "WOODD",
+    "ProfileType": "",
+    "ClientCode": "ALBAN",
+    "BPAY": "",
+    "Group": "LGIS",
+    "Company": "",
+    "ID": "157820",
+    "ServiceDiary": {
+      "Action": "Test Action Description",
+      "Sep":"24"   }
+
+  },
+
+  "SearchByCompanyNumber": {
+    "Code": "062",
+    "Name": "Bradley Michael Moon",
+    "Dept": "024",
+    "Segment": "BR",
+    "SIC": "9199",
+    "Broker": "LATIA",
+    "ProfileType": "",
+    "ClientCode": "BRADMO",
+    "BPAY": "",
+    "Group": "",
+    "Company": "58258860172",
+    "ID": "",
+    "CompanyNumber": "1"
+  },
+
+  "SearchByInactive": {
+    "Code": "062",
+    "Name": "R Bhasin",
+    "Dept": "010",
+    "Segment": "BR",
+    "SIC": "3310",
+    "Broker": "",
+    "ProfileType": "",
+    "ClientCode": "BHASR",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "ID": "157830"
+  },
+  "History": {
+    "Name": "New Name Test1",
+    "SIC": "AABTH Members (6655)",
+    "Address1": "New Address updated"
+  },
+
+  "Contacts": {
+    "Type": "Company Secretary",
+    "Contact": "Joe Bloggs",
+    "Position": "Secretary",
+    "Mobile": "0406123456",
+    "Email": "fakeemail@company.com",
+    "Salutation": "Dear Joe,",
+    "Comments": "Created by WinAppDriver"
+  },
+
+  "DMG": {
+    "Code": "060",
+    "ClientCode": "BJTestCC",
+    "Message": "Cannot proceed. Client is awaiting DMG approval."
+  },
+
+  "InsertClientProfile": {
+    "Code": "062",
+    "Name": "City of South Perth",
+    "Dept": "012",
+    "Segment": "BR",
+    "SIC": "9199",
+    "ProfileType": "Client Profile - Marsh",
+    "Broker": "OBRIS",
+    "ClientCode": "SOUTH",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "ID": ""
+  },
+
+  "CreateClient_EDI": {
+    "Code": "020",
+    "Name": "EDI Client",
+    "Dept": "Archived Accounts (090)",
+    "Segment": "Affinity (AF)",
+    "ProfileType": "",
+    "Broker": "Team, Business Insurance Services (BIST)",
+    "SIC": "AABTH Members (6655)",
+    "ClientCode": "CLIENTEDI",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "ID": ""
+  },
+
+  "CreateClient_FBI": {
+    "Code": "020",
+    "Name": "FBI Client",
+    "Dept": "Gatt N (058)",
+    "Segment": "CCA - Affinity Auto (AP)",
+    "SIC": "Advisory (6959)",
+    "ProfileType": "Client Profile - Marsh",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "CLIENTFBI",
+    "BPAY": "",
+    "Group": "OneFocus (ONE)",
+    "Company": "",
+    "ID": ""
+  },
+
+  "CreateClient_Profile": {
+    "Code": "060",
+    "Name": "Test Client",
+    "Dept": "7 Hills - Schemes (099)",
+    "Segment": "Financial Lines Risk Management (PX)",
+    "SIC": "AABTH Members (6655)",
+    "ProfileType": "Client Profile - Marsh",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "PROFILE",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "ID": ""
+  },
+
+  "CreateClient_Schedule": {
+    "Code": "060",
+    "Name": "Test Client",
+    "Dept": "7 Hills - Schemes (099)",
+    "Segment": "Financial Lines Risk Management (PX)",
+    "SIC": "AABTH Members (6655)",
+    "Broker": "Adams, John (ADAMJ)",
+    "ClientCode": "SCHEDULE",
+    "BPAY": "",
+    "Group": "",
+    "Company": "",
+    "ID": ""
+  }
+}

@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/Microsoft.Extensions.DependencyInjection.5.0.1/lib/netstandard2.1
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312199
+Microsoft.Extensions.DependencyInjection.dll;2455406452;1;1622185402;|384323|1109005
+Microsoft.Extensions.DependencyInjection.xml;2043628784;1;1622185403;|384324|1109006

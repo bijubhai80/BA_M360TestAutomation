@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/M360/Screens/ClaimsScreen
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312258
+ClaimCreateNewScreen.cs;779387391;1;1622185247;|386277|1117531
+ClaimSearchScreen.cs;918768368;1;1622185247;|386276|1117530

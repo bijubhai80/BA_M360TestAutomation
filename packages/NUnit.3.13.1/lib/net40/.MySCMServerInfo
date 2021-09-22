@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/NUnit.3.13.1/lib/net40
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312166
+nunit.framework.dll;119860167;1;1622186204;|384369|1109051
+nunit.framework.xml;347741277;1;1622186221;|384370|1109052

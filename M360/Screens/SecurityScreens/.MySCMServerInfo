@@ -1,0 +1,7 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/M360/Screens/SecurityScreens
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65324428
+UsersSearchScreen.cs;828764669;1;1626319915;|388954|4294967295
+UserPermissionsScreen.cs;3875223698;1;1626108608;|388955|4294967295
+RolesScreen.cs;3788744016;5;1632194325;|388078|1130165

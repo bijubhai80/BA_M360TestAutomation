@@ -1,0 +1,5 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/M360/Oracle/Packages
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65392238
+JBS_CREATE_TEST_DATA.pks;17718289;1;1632194347;|389614|1130971

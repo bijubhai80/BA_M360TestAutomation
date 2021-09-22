@@ -1,0 +1,92 @@
+{
+  "New": {
+    "Office": "020",
+    "Policy": "77507",
+    "LossDate": "07/05/2021",
+    "Description": "Test claim description",
+    "Status": "Test status",
+    "Registration1": "TEST",
+    "Registration2": "REGIST",
+    "Registration3": "FIELD",
+    "Injury": "Test injury",
+    "Deductible": "$200",
+    "ReportClassIndex": "1",
+    "Actions": {
+      "Diary": {
+        "ActionTypeIndex": "2",
+        "Details": "Test Diary",
+        "Weeks": "1"
+      }
+    }
+  },
+  "Search": [
+    {
+      "Office": "020",
+      "SearchText": "test",
+      "SearchIn": "Description",
+      "IsOutstanding": true,
+      "IsSettled": false,
+      "ExpectSuccess": true
+    },
+    {
+      "Office": "020",
+      "SearchText": "oat",
+      "SearchIn": "ClientReference",
+      "IsSettled": true,
+      "ExpectSuccess": true
+    },
+    {
+      "Office": "060",
+      "ClientCode": "ALBAN",
+      "IsSettled": true,
+      "ExpectSuccess": true
+    },
+    {
+      "Office": "020",
+      "ClientCode": "AMAASB",
+      "IsSettled": true,
+      "ExpectSuccess": true
+      // This one displays dialog "Your search criteria returned more than 1500 claims." 
+    },
+    {
+      "LossDateFrom": "01/01/2021",
+      "IsSettled": true,
+      "ExpectSuccess": true
+    },
+    {
+      "Class": "CRI",
+      "IsSettled": true,
+      "ExpectSuccess": true
+    },
+    {
+      "Class": "CRI",
+      "LossDateFrom": "29/07/2015",
+      "LossDateTo": "29/07/2015",
+      "IsSettled": true,
+      "ExpectSuccess": true
+    },
+
+    // Negative tests
+    {
+      "Office": "060",
+      "ClientCode": "ABACUS",
+      "IsSettled": false,
+      "ExpectSuccess": false
+    }
+
+    //future dates have bug so test reuslt in app failure
+    /*
+    {
+      "LossDateFrom": "01/01/2099",
+      "LossDateTo": "01/01/2099",
+      "IsSettled": true,
+      "ExpectSuccess": false
+    },
+    {
+      "LossDateFrom": "01/01/2099",
+      "IsSettled": true,
+      "ExpectSuccess": false
+    }
+  */
+  ] 
+}

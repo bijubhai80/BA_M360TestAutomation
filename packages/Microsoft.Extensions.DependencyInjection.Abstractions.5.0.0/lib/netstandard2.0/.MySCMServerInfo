@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/packages/Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0/lib/netstandard2.0
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65312195
+Microsoft.Extensions.DependencyInjection.Abstractions.dll;372142646;1;1622185408;|384334|1109016
+Microsoft.Extensions.DependencyInjection.Abstractions.xml;987628362;1;1622185408;|384335|1109017

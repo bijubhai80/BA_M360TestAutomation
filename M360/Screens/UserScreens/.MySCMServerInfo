@@ -1,0 +1,6 @@
+SCMBranch=BA_M360TestAutomation
+SCMRepository=JLTA/JLTA/Tools/M360TestAutomation/M360/Screens/UserScreens
+SCMMainlineUUID={e34aff96-9055-439e-8afa-e92c66a77ff1}
+SCMBranchRepositoryID=65324430
+UserSearchScreen.cs;65933587;2;1626829184;|388007|1127367
+UserScreen.cs;2387335804;3;1627000717;|388008|1127718
